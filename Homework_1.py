@@ -1,8 +1,14 @@
 # Name: Yian Ha
 # SBUID: 115343173
-
+##################### SCORE ######################
+#######  Score:  6/10 - please use python functions and variables
+#################################################
 # Remove the ellipses (...) when writing your solutions.
-
+# your output:
+# (base) D:\CSE 101 Ass1\Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27>D:/anaconda/python.exe "d:/CSE 101 Ass1/Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27/Yian716/Homework_1.py"
+# Sweater
+# The area of the triangle is : 40.5 , its perimeter is : 34.44016144898765 --> wrong
+# The area of the polygon is : 27.527638409423474
 # ---------------------------- Exercise I ---------------------------------------
 # ----------------- Convert Fahrenheit to Celsius -------------------------------
 # TODO: Complete the implementation of fahrenheit2celsius () and what_to_wear(). 
