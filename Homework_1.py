@@ -1,7 +1,7 @@
 # Name: Yian Ha
 # SBUID: 115343173
 ##################### SCORE ######################
-#######  Score:  6/10 - please use python functions and variables
+#######  Score:  9/10 - please use python functions and variables
 #################################################
 # Remove the ellipses (...) when writing your solutions.
 # your output:
